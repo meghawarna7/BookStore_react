@@ -9,9 +9,9 @@ Here is a video demonstration of my project:
 Here are some screenshots of the project:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="path/to/screenshot1.png" alt="Screenshot 1" width="48%" style="margin-bottom: 10px;">
-  <img src="path/to/screenshot2.png" alt="Screenshot 2" width="48%" style="margin-bottom: 10px;">
-  <img src="path/to/screenshot3.png" alt="Screenshot 3" width="48%" style="margin-bottom: 10px;">
-  <img src="path/to/screenshot4.png" alt="Screenshot 4" width="48%" style="margin-bottom: 10px;">
-  <img src="path/to/screenshot5.png" alt="Screenshot 5" width="48%" style="margin-bottom: 10px;">
+  <img src="/screenshot1.png" alt="Screenshot 1" width="48%" style="margin-bottom: 10px;">
+  <img src="/screenshot2.png" alt="Screenshot 2" width="48%" style="margin-bottom: 10px;">
+  <img src="/screenshot3.png" alt="Screenshot 3" width="48%" style="margin-bottom: 10px;">
+  <img src="/screenshot4.png" alt="Screenshot 4" width="48%" style="margin-bottom: 10px;">
+  <img src="/screenshot5.png" alt="Screenshot 5" width="48%" style="margin-bottom: 10px;">
 </div>
